@@ -1,0 +1,88 @@
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Web ERP Single Branch.exe.manifest
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Web ERP Single Branch.xbap
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Web ERP Single Branch.exe
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Web ERP Single Branch.pdb
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ZK_ERP.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.csprojResolveAssemblyReference.cache
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Page1.g.cs
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\App.g.cs
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch_MarkupCompile.cache
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch_MarkupCompile.lref
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Page1.baml
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.g.resources
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web_ERP_Single_Branch.Properties.Resources.resources
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.csproj.GenerateResource.Cache
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.TrustInfo.xml
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.exe.manifest
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.xbap
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.exe
+C:\Users\SEEME\Downloads\zk\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.pdb
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Web ERP Single Branch.exe
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Web ERP Single Branch.pdb
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ZK_ERP.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.csprojResolveAssemblyReference.cache
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Page1.g.cs
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\App.g.cs
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch_MarkupCompile.cache
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch_MarkupCompile.lref
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Page1.baml
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.g.resources
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web_ERP_Single_Branch.Properties.Resources.resources
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.csproj.GenerateResource.Cache
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.exe
+F:\data\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.pdb
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ZK_ERP.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.csprojResolveAssemblyReference.cache
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Page1.g.cs
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\App.g.cs
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Page1.baml
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web_ERP_Single_Branch.Properties.Resources.resources
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.csproj.GenerateResource.Cache
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Web ERP Single Branch.exe.manifest
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Web ERP Single Branch.xbap
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Web ERP Single Branch.exe
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\bin\Debug\Web ERP Single Branch.pdb
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch_MarkupCompile.cache
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch_MarkupCompile.lref
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.g.resources
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.TrustInfo.xml
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.exe.manifest
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.xbap
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.exe
+D:\CSHARP_1\web\Web ERP Single Branch\Web ERP Single Branch\obj\Debug\Web ERP Single Branch.pdb
